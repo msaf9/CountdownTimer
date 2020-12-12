@@ -1,0 +1,27 @@
+.image {
+    height: 100%;
+    background-image: url('https://www.teahub.io/photos/full/186-1867614_dark-galaxy-wallpaper-galaxy-wallpaper-for-laptop.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 h3 {
+    margin: 0%;
+}
+
+.center {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin: 0%;
+}
+
+.mid {
+    margin: 0;
+    padding: 0%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
